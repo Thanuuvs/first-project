@@ -1,0 +1,150 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = false
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp2
+build_property.ProjectDir = C:\WorkArea\sample\MauiApp2\MauiApp2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/CollectionControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.CollectionControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = CollectionControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = CollectionControlsDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/ColorMakerDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.ColorMakerDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ColorMakerDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ColorMakerDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/CommandControlDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.CommandControlDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = CommandControlDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = CommandControlDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/ContentPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.ContentPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ContentPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ContentPageDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/FlexLayoutPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.FlexLayoutPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FlexLayoutPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FlexLayoutPageDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/Flyoutpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.Flyoutpage.xaml
+build_metadata.AdditionalFiles.TargetPath = Flyoutpage.xaml
+build_metadata.AdditionalFiles.RelativePath = Flyoutpage.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/InputControlDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.InputControlDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = InputControlDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = InputControlDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/MVVM/View/Commandviewxaml.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.MVVM.View.Commandviewxaml.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\View\Commandviewxaml.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\View\Commandviewxaml.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/MVVM/View/Convertview.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.MVVM.View.Convertview.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\View\Convertview.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\View\Convertview.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/MVVM/View/Personview.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.MVVM.View.Personview.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\View\Personview.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\View\Personview.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/MVVM/View/PersonViewDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.MVVM.View.PersonViewDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\View\PersonViewDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\View\PersonViewDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/perfectpay.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.perfectpay.xaml
+build_metadata.AdditionalFiles.TargetPath = perfectpay.xaml
+build_metadata.AdditionalFiles.RelativePath = perfectpay.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/styledemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.styledemo.xaml
+build_metadata.AdditionalFiles.TargetPath = styledemo.xaml
+build_metadata.AdditionalFiles.RelativePath = styledemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/TabbedPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TabbedPageDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/TextControlSDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.TextControlSDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TextControlSDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TextControlSDemo.xaml
+
+[C:/WorkArea/sample/MauiApp2/MauiApp2/workingimage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.workingimage.xaml
+build_metadata.AdditionalFiles.TargetPath = workingimage.xaml
+build_metadata.AdditionalFiles.RelativePath = workingimage.xaml
