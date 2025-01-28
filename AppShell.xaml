@@ -11,7 +11,7 @@
     <FlyoutItem Title="Page 1">
         <Tab Title="Name">
             <ShellContent
-                Title="Ramji"
+                Title="Ramjits"
                 ContentTemplate="{DataTemplate local:ContentPageDemo}"/>
             <ShellContent
                 Title="Dinesh"
